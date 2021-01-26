@@ -21,8 +21,8 @@ def hello_world(request):
     ]
     checkin_date = datetime.datetime.now() + datetime.timedelta(int(os.environ["CHECKIN"]))
     checkout_date = checkin_date + datetime.timedelta(int(os.environ["CHECKOUT"]))
-
-    with open("data.csv", "w") as outfile:
+    # needs to be stored in tmp dir in gcp as dont have write permissions otherwise
+    with open("/tmp/data.csv", "w") as outfile:
         fieldnames = [
             "name",
             "location",
