@@ -3,6 +3,6 @@ bs4
 requests
 openpyxl==2.6.2
 argcomplete==1.12.2
-pandas
-numpy
 booking-scraper
+beautifulsoup4
+selectorlib
