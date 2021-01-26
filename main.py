@@ -51,7 +51,7 @@ def hello_world(request):
                 except:
                     print("Skipping to next as offset exceeds max search")
                 # sleep(5)
-
+        print("Saved temp copy of csv")
         client = storage.Client()
         bucket = client.get_bucket('cloud-function-output-scrapper')
         blob = bucket.blob('booking.csv')
