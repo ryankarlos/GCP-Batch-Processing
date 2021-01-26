@@ -9,8 +9,8 @@ def get_results_from_booking(city, limit, detail=True):
 
 def result_to_json(result, path):
     with open(path, 'w', encoding='utf-8') as f:
-    json.dump(result, f, ensure_ascii=False, indent=4)
-    f.close()
+        json.dump(result, f, ensure_ascii=False, indent=4)
+        f.close()
 
 
 def argparse_args():
@@ -29,10 +29,9 @@ def argparse_args():
         nargs="?",
     )
     parser.add_argument(
-        "--out_format",
-        help="Add the format for the output file. Add excel, json or csv.",
-        default="json",
-        choices=["json", "excel", "csv"],
+        "--output_path",
+        help="path of output file. By default saves in current directory",
+        default="output.json",
         nargs="?",
     )
     return parser.parse_args()
@@ -41,4 +40,4 @@ def argparse_args():
 if __name__ == "__main__":
     args = argparse_args()
     result = get_results_from_booking(args.city, args.limit)
-    result_to_json(result, path="output.json")
+    result_to_json(result, args.output_path)

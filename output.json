@@ -1,0 +1,3821 @@
+[
+    [
+        {
+            "name": "Four Points by Sheraton Manhattan SoHo Village",
+            "score": "8,2",
+            "price": "4",
+            "link": "/hotel/us/four-points-by-sheraton-manhattan-soho-villege.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=2583517_83332353_0_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=26&highlighted_blocks=2583517_83332353_0_0_0&hpos=1&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=2583517_83332353_0_0_0__8789&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.72702603",
+                "longitude": "-74.00614556",
+                "important_facilities": [
+                    "Palestra",
+                    "Camere non fumatori",
+                    "Ristorante",
+                    "Servizio in camera",
+                    "Camere/strutture per ospiti disabili",
+                    "Parcheggio privato",
+                    "bollitore tè / macchina caffè in tutte le camere",
+                    "Bar"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Arredamento da esterni",
+                            "Terrazza"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Stand appendiabiti"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Zona soggiorno",
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Docking station per iPod",
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Possibilità di colazione in camera",
+                            "Bar",
+                            "Ristorante",
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet via cavo disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business",
+                            "Spazi per riunioni/banchetti"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Camera anallergica",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Cassaforte per computer portatile",
+                            "Moquette",
+                            "Ascensore",
+                            "Suite nuziale",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Sveglia/sveglia telefonica",
+                            "Aria condizionata",
+                            "Servizio in camera"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/252819662.jpg?k=d2c31bfd2c281d3838f4ca512604d8eda67e7b8b13eb8c87064e4ee2bbee54a9&o="
+        },
+        {
+            "name": "Four Points by Sheraton Manhattan Chelsea",
+            "score": "8,0",
+            "price": "4",
+            "link": "/hotel/us/four-points-by-sheraton-manhattan-chelsea.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=4177927_84595383_0_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=27&highlighted_blocks=4177927_84595383_0_0_0&hpos=2&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=4177927_84595383_0_0_0__8789&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.74504100",
+                "longitude": "-73.99416044",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "bollitore tè / macchina caffè in tutte le camere"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa",
+                            "Parcheggio custodito"
+                        ]
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Sveglia telefonica",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Fattura disponibile su richiesta"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Rilevatore di monossido di carbonio",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Camera anallergica",
+                            "Riscaldamento",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Ausili visivi: Braille",
+                            "WC con seduta più alta",
+                            "WC con maniglioni"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Cinese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/176885842.jpg?k=c18bb60b106300eeeb84ef8ceb31ac13845c75f24a2bf2a29f7270671a0165fb&o="
+        },
+        {
+            "name": "Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea",
+            "score": "8,3",
+            "price": "6",
+            "link": "/hotel/us/fairfield-inn-new-york-manhattan-chelsea.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=28448901_246430000_0_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=28&highlighted_blocks=28448901_246430000_0_1_0&hpos=3&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=28448901_246430000_0_1_0__8956&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.74617795",
+                "longitude": "-73.99156004",
+                "important_facilities": [
+                    "Palestra",
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Colazione buona"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Asciugamani",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente nelle camere."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Deposito bagagli",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio stireria",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Camera anallergica",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Moquette",
+                            "Negozio di souvenir",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/225627649.jpg?k=de7fc9052d0f76034f6d970ee53449f3941ebd4562be8fa646fb88b5fe2b537f&o="
+        },
+        {
+            "name": "Citadines Connect Fifth Avenue New York",
+            "score": "8,3",
+            "price": "6",
+            "link": "/hotel/us/citadines-connect-fifth-avenue-new-york.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=18184417_266125902_2_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=29&highlighted_blocks=18184417_266125902_2_1_0&hpos=4&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=18184417_266125902_2_1_0__8961&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75575133",
+                "longitude": "-73.98014121",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Disponibilità di camere familiari",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Fattura disponibile su richiesta",
+                            "Deposito bagagli",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Servizio stireria",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Moquette",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Accesso su sedia a rotelle"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/159884656.jpg?k=8eba328be27e407d34ce530a3e2cccb6f7193d0ce94b94339c843d39aed93527&o="
+        },
+        {
+            "name": "Wingate by Wyndham New York Midtown South/5th Ave",
+            "score": "8,3",
+            "price": "6",
+            "link": "/hotel/us/wingate-by-wyndham-manhattan-chelsea.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=474660203_243214535_2_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=30&highlighted_blocks=474660203_243214535_2_1_0&hpos=5&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=474660203_243214535_2_1_0__9025&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75077600",
+                "longitude": "-73.98420800",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Buffet per bambini",
+                            "Possibilità di colazione in camera"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Deposito bagagli",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Canali TV per bambini",
+                            "Giochi da tavolo/puzzle"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Stirapantaloni",
+                            "Servizio stireria",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Ascensore",
+                            "Camere/strutture per ospiti disabili",
+                            "Camere non fumatori",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/230263897.jpg?k=c090ef9be2aa3422580f43851ee4f1b4e0ecd32e1c24368cf10b457bb7aac073&o="
+        },
+        {
+            "name": "Doubletree By Hilton New York Times Square West",
+            "score": "7,7",
+            "price": "0",
+            "link": "/hotel/us/doubletree-by-hilton-new-york-times-square-west.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=201282905_264234991_2_2_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=31&highlighted_blocks=201282905_264234991_2_2_0&hpos=6&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=201282905_264234991_2_2_0__8163&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75680164",
+                "longitude": "-73.99306987",
+                "important_facilities": [
+                    "Palestra",
+                    "Camere non fumatori",
+                    "Ristorante",
+                    "Servizio in camera",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Bar",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Arredamento da esterni",
+                            "Terrazza"
+                        ]
+                    },
+                    {
+                        "type": "Servizi ed extra",
+                        "value": [
+                            "Biglietti per attrazioni o spettacoli"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Attività",
+                        "value": [
+                            "Trasmissione di eventi sportivi in diretta",
+                            "Spettacolo/musica dal vivo",
+                            "Happy hour",
+                            "Tour in bicicletta",
+                            "Tour a piedi",
+                            "Cabaret",
+                            "Intrattenimento serale",
+                            "Locale notturno/DJ"
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Caffetteria sul posto",
+                            "Cioccolatini o biscotti",
+                            "Frutta",
+                            "Bottiglia d'acqua",
+                            "Vino/champagne",
+                            "Buffet per bambini",
+                            "Pasti per bambini",
+                            "Menù per diete particolari (su richiesta)",
+                            "Snack bar",
+                            "Possibilità di colazione in camera",
+                            "Bar",
+                            "Ristorante"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Internet WiFi disponibile al costo di 9,95 USD ogni 24 ore in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Parcheggio per disabili",
+                            "Autorimessa",
+                            "Parcheggio in strada",
+                            "Parcheggio custodito"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Fattura disponibile su richiesta",
+                            "Servizio concierge",
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Servizio biglietteria",
+                            "Banco escursioni",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Canali TV per bambini"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business",
+                            "Spazi per riunioni/banchetti"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Allarme di sicurezza",
+                            "Sicurezza 24 ore su 24",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Ciotole per animali domestici",
+                            "WiFi a pagamento",
+                            "Minimarket (in loco)",
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Camera anallergica",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Autonoleggio",
+                            "Cassaforte per computer portatile",
+                            "Possibilità di pranzo al sacco",
+                            "Moquette",
+                            "Disponibilità di camere insonorizzate",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Aria condizionata",
+                            "Servizio in camera"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Ausili visivi: Braille",
+                            "WC con maniglioni",
+                            "Accesso su sedia a rotelle",
+                            "Piani superiori accessibili tramite ascensore"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Fitness",
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Francese",
+                            "Italiano",
+                            "Giapponese",
+                            "Cinese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/103992122.jpg?k=1d0376a10b50f781281d7796ff1d790850c549d9c852e1d153f3796a427383eb&o="
+        },
+        {
+            "name": "Holiday Inn New York City - Times Square",
+            "score": "8,2",
+            "price": "6",
+            "link": "/hotel/us/holiday-inn-new-york-times-square-south.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=142466602_244930541_2_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=32&highlighted_blocks=142466602_244930541_2_0_0&hpos=7&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=142466602_244930541_2_0_0__9030&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75513100",
+                "longitude": "-73.99134000",
+                "important_facilities": [
+                    "Palestra",
+                    "Camere non fumatori",
+                    "Servizio in camera",
+                    "Camere/strutture per ospiti disabili",
+                    "Parcheggio",
+                    "Reception 24 ore su 24",
+                    "bollitore tè / macchina caffè in tutte le camere",
+                    "Bar",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Asciugamani",
+                            "Servizi igienici aggiuntivi",
+                            "Vasca o doccia",
+                            "Servizi igienici in comune",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Arredamento da esterni"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Asciugatrice",
+                            "Frigorifero"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Presa elettrica vicino al letto",
+                            "Stand appendiabiti"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Canali satellitari",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Vino/champagne",
+                            "Pasti per bambini",
+                            "Bar",
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet via cavo disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa",
+                            "Parcheggio custodito"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Servizio concierge",
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Servizio biglietteria",
+                            "Banco escursioni",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Canali TV per bambini"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Lavaggio a secco"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Allarme antifumo",
+                            "Sicurezza 24 ore su 24",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Insonorizzazione",
+                            "Disponibilità di camere comunicanti",
+                            "Moquette",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Sveglia/sveglia telefonica",
+                            "Aria condizionata",
+                            "Servizio in camera"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Ausili visivi: Braille",
+                            "WC con maniglioni",
+                            "Accesso su sedia a rotelle",
+                            "Piani superiori accessibili solo tramite scale",
+                            "Piani superiori accessibili tramite ascensore"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Fitness",
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Cinese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/234143547.jpg?k=1d84291c61f9f2453a32af9ba23cc014212eb4348336f8433b17b33862c58b8a&o="
+        },
+        {
+            "name": "Hilton Garden Inn New York/Midtown Park Avenue",
+            "score": "8,4",
+            "price": "6",
+            "link": "/hotel/us/hilton-garden-inn-new-york-midtown-park-avenue.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=61793104_277215635_2_2_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=33&highlighted_blocks=61793104_277215635_2_2_0&hpos=8&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=61793104_277215635_2_2_0__9030&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.74686100",
+                "longitude": "-73.98229600",
+                "important_facilities": [
+                    "palestra buona",
+                    "Camere non fumatori",
+                    "Servizio in camera",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Bar",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Asciugamani",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Terrazza"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Forno a microonde",
+                            "Frigorifero"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Bar"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Deposito bagagli",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Minimarket (in loco)",
+                            "Sala comune/zona TV",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Insonorizzazione",
+                            "Cassaforte per computer portatile",
+                            "Moquette",
+                            "Disponibilità di camere insonorizzate",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata",
+                            "Servizio in camera"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/39342273.jpg?k=06a2ecfc19b9462e8ae3ccb07353e5381b9bff9e4a30721e9a1512671805bab8&o="
+        },
+        {
+            "name": "Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area",
+            "score": "8,7",
+            "price": "7",
+            "link": "/hotel/us/hotel-lower-east-side-new-york.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=43107001_274565696_0_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=34&highlighted_blocks=43107001_274565696_0_1_0&hpos=9&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=43107001_274565696_0_1_0__9128&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.70830800",
+                "longitude": "-74.01368100",
+                "important_facilities": [
+                    "Palestra",
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Colazione buona"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Bagno privato",
+                            "WC",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa"
+                        ]
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Sportello bancomat",
+                            "Check-in e check-out express",
+                            "Lavaggio a secco"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Camere non fumatori",
+                            "Quotidiani",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Accesso su sedia a rotelle"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/124263526.jpg?k=cc4acc4e4629c01bbb55b66401b6410bd7a0ae1000acc62a3cdfdda5719a6f72&o="
+        },
+        {
+            "name": "Chelsea Pines Inn",
+            "score": "7,7",
+            "price": "4",
+            "link": "/hotel/us/chelsea-pines-inn.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=30855901_91441517_0_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=35&highlighted_blocks=30855901_91441517_0_0_0&hpos=10&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=30855901_91441517_0_0_0__8741&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.74028063",
+                "longitude": "-74.00334802",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Animali ammessi",
+                    "bollitore tè / macchina caffè in tutte le camere"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Terrazza",
+                            "Giardino"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Forno a microonde",
+                            "Frigorifero"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Docking station per iPod",
+                            "TV a schermo piatto",
+                            "Canali satellitari",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Servizio concierge",
+                            "Deposito bagagli",
+                            "Servizio biglietteria",
+                            "Sveglia telefonica",
+                            "Fax/fotocopiatrice",
+                            "Sveglia/sveglia telefonica",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Area fumatori",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Cassaforte per computer portatile",
+                            "Disponibilità di camere comunicanti",
+                            "Moquette",
+                            "Riscaldamento",
+                            "Ventilatore",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/4492410.jpg?k=b6a423a715054c41adf4b1272785a510c68c7ffcc20c7e3949d4fa6ae80b0d38&o="
+        },
+        {
+            "name": "Hotel Central Times Square",
+            "score": "7,6",
+            "price": "8",
+            "link": "/hotel/us/newyork-341-west36th.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=36058901_274561118_0_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=36&highlighted_blocks=36058901_274561118_0_1_0&hpos=11&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=36058901_274561118_0_1_0__9334&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75426050",
+                "longitude": "-73.99419531",
+                "important_facilities": [
+                    "palestra buona",
+                    "Camere non fumatori",
+                    "Ristorante",
+                    "Servizio in camera",
+                    "Camere/strutture per ospiti disabili",
+                    "Parcheggio privato",
+                    "Bar",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Terrazza"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono",
+                            "Canali pay per view"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Bar",
+                            "Ristorante"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet via cavo disponibile gratuitamente nelle aree comuni."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Servizio concierge",
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Banco escursioni",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Lavaggio a secco"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business",
+                            "Spazi per riunioni/banchetti"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Moquette",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Aria condizionata",
+                            "Servizio in camera"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/42838198.jpg?k=01c13fc9df581918dbd3ffdbabd34f2d095ab8a34ecdcc2d9d3429ba7bf8d9c1&o="
+        },
+        {
+            "name": "Room in Manhattan",
+            "score": "4,2",
+            "price": "8",
+            "link": "/hotel/us/room-manhattan.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=522876203_183246878_4_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=37&highlighted_blocks=522876203_183246878_4_0_0&hpos=12&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=522876203_183246878_4_0_0__9350&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.80644600",
+                "longitude": "-73.93894000",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Connessione WiFi gratuita",
+                    "Riscaldamento",
+                    "Aria condizionata"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Asciugamani/lenzuola disponibili a pagamento",
+                            "Servizi igienici in comune",
+                            "Bagno in comune",
+                            "Asciugacapelli",
+                            "Vasca"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa"
+                        ]
+                    },
+                    {
+                        "type": "Vista",
+                        "value": [
+                            "Vista"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Cucina in comune",
+                            "Bollitore elettrico",
+                            "Forno a microonde",
+                            "Frigorifero",
+                            "Angolo cottura"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Presa elettrica vicino al letto",
+                            "Stand appendiabiti"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Parcheggio in strada"
+                        ]
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Check-in e check-out privati",
+                            "Check-in e check-out express"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Struttura per soli adulti",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Insonorizzazione",
+                            "Ingresso indipendente",
+                            "Disponibilità di camere insonorizzate",
+                            "Riscaldamento",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Piani superiori accessibili solo tramite scale"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/221686394.jpg?k=4b170ceb591b4b571dfebe9f03ab80b4ec27443f6b160ba8de443cb7fb685060&o="
+        },
+        {
+            "name": "Hyatt Place New York/Midtown-South",
+            "score": "8,4",
+            "price": "8",
+            "link": "/hotel/us/hyatt-place-new-york.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=46694107_269949789_4_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=38&highlighted_blocks=46694107_269949789_4_1_0&hpos=13&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=46694107_269949789_4_1_0__9355&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75051017",
+                "longitude": "-73.98577049",
+                "important_facilities": [
+                    "palestra buona",
+                    "Camere non fumatori",
+                    "WiFi disponibile ovunque",
+                    "Parcheggio privato",
+                    "Connessione WiFi gratuita",
+                    "Disponibilità di camere familiari",
+                    "Bar",
+                    "Colazione buona"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Terrazza"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Frigorifero"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Zona soggiorno",
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Docking station per iPod",
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Caffetteria sul posto",
+                            "Cioccolatini o biscotti",
+                            "Vino/champagne",
+                            "Snack bar",
+                            "Bar"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa",
+                            "Parcheggio custodito"
+                        ]
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Deposito bagagli",
+                            "Sveglia telefonica",
+                            "Fax/fotocopiatrice",
+                            "Servizio stireria",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia",
+                            "Centro business",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Cassaforte per computer portatile",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Fitness",
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Russo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/274077015.jpg?k=36665dc36a0dda29c8c27488f8c5279f4deffebb72606c6aac8e8cb92ad778ed&o="
+        },
+        {
+            "name": "Radisson Hotel New York Times Square",
+            "score": "8,2",
+            "price": "9",
+            "link": "/hotel/us/radisson-new-york-times-square.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=577948002_243170602_2_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=39&highlighted_blocks=577948002_243170602_2_0_0&hpos=14&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=577948002_243170602_2_0_0__9375&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do;has_campaign_deals_early21_customer_label=1",
+            "details": {
+                "latitude": "40.75376400",
+                "longitude": "-73.99265000",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "Parcheggio",
+                    "Animali ammessi",
+                    "Reception 24 ore su 24",
+                    "Servizio pulizie giornaliero"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Bagno privato",
+                            "WC",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Frigorifero"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Canali via cavo",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet via cavo disponibile gratuitamente nelle aree comuni."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa",
+                            "Parcheggio in strada"
+                        ]
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Sportello bancomat",
+                            "Sveglia telefonica",
+                            "Fax/fotocopiatrice",
+                            "Lavaggio a secco",
+                            "Centro business",
+                            "Reception 24 ore su 24",
+                            "Spazi per riunioni/banchetti"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Canali TV per bambini"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Allarme di sicurezza",
+                            "Sicurezza 24 ore su 24",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Rilevatore di monossido di carbonio",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Cassaforte per computer portatile",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Camere non fumatori",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Ausili visivi: Braille",
+                            "Lavabo più basso",
+                            "WC con maniglioni",
+                            "Accesso su sedia a rotelle"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/238795413.jpg?k=6aceb9316a5a506032a43b5e16a04f18d4b0e3612fbeca1e86f2a9f0edcd3470&o="
+        },
+        {
+            "name": "Fairfield Inn by Marriott New York Manhattan/Financial District",
+            "score": "8,3",
+            "price": "9",
+            "link": "/hotel/us/fairfield-inn-by-marriott-new-york-manhattan-financial-district.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=59953404_274565673_0_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=40&highlighted_blocks=59953404_274565673_0_1_0&hpos=15&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=59953404_274565673_0_1_0__9415&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.70628000",
+                "longitude": "-74.00557000",
+                "important_facilities": [
+                    "palestra buona\n\n\n(al momento non disponibile)",
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Colazione buona"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Asciugatrice"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Distributore automatico di bevande",
+                            "Deposito bagagli",
+                            "Fax/fotocopiatrice",
+                            "Servizio stireria",
+                            "Lavaggio a secco",
+                            "Centro business",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Moquette",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Arabo",
+                            "Inglese",
+                            "Spagnolo",
+                            "Francese",
+                            "Cinese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/44479842.jpg?k=28dd85a26198b8f49ee3a46897ffd1bd429db2610636d2812045e8960a7ddc5e&o="
+        },
+        {
+            "name": "The Carvi Hotel New York, Ascend Hotel Collection",
+            "score": "8,7",
+            "price": "9",
+            "link": "/hotel/us/carvi-new-york.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=2889810_216484185_2_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=41&highlighted_blocks=2889810_216484185_2_0_0&hpos=16&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=2889810_216484185_2_0_0__9415&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75918341",
+                "longitude": "-73.96921188",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "WiFi disponibile ovunque",
+                    "Parcheggio privato",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Arredamento da esterni",
+                            "Terrazza"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Docking station per iPod",
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Minibar"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Servizio concierge",
+                            "Sveglia telefonica",
+                            "Banco escursioni",
+                            "Lavaggio a secco",
+                            "Sveglia/sveglia telefonica",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Allarme antifumo",
+                            "Allarme di sicurezza",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Cassaforte per computer portatile",
+                            "Ascensore",
+                            "Camere non fumatori"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Piani superiori accessibili tramite ascensore"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Portoghese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/269700227.jpg?k=9ef296dcd8e14418bc428b46e76381d7e311c0706a9d953983df9166aef49e61&o="
+        },
+        {
+            "name": "Orchard Street Hotel",
+            "score": "7,8",
+            "price": "9",
+            "link": "/hotel/us/orchard-street-hotel.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=133621102_269976285_0_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=42&highlighted_blocks=133621102_269976285_0_0_0&hpos=17&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=133621102_269976285_0_0_0__9415&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.72114462",
+                "longitude": "-73.98878311",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Reception 24 ore su 24"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Arredamento da esterni",
+                            "Terrazza"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Presa elettrica vicino al letto"
+                        ]
+                    },
+                    {
+                        "type": "Servizi ed extra",
+                        "value": [
+                            "Biglietti per attrazioni o spettacoli"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Docking station per iPod",
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Bottiglia d'acqua"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Check-in e check-out privati",
+                            "Servizio concierge",
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Lavaggio a secco"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Sala comune/zona TV",
+                            "Soluzioni anallergiche",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Camera anallergica",
+                            "Sveglia telefonica",
+                            "Parquet o pavimento in legno",
+                            "Riscaldamento",
+                            "Ingresso indipendente",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Sveglia/sveglia telefonica",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "WC con maniglioni",
+                            "Accesso su sedia a rotelle",
+                            "Piani superiori accessibili tramite ascensore"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/229126642.jpg?k=91136e4d82ccca47a9158bd0415d04aa80bdf3fb5cfbe394f7b2347725c07a44&o="
+        },
+        {
+            "name": "Doxie Hotel",
+            "score": "7,2",
+            "price": "9",
+            "link": "/hotel/us/manhattan-broadway.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=5789901_265720998_0_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=43&highlighted_blocks=5789901_265720998_0_0_0&hpos=18&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=5789901_265720998_0_0_0__9415&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75463994",
+                "longitude": "-73.99116375",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Navetta aeroportuale",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Disponibilità di camere familiari"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Stand appendiabiti"
+                        ]
+                    },
+                    {
+                        "type": "Servizi ed extra",
+                        "value": [
+                            "Biglietti per attrazioni o spettacoli"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente nelle camere."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Servizio navetta",
+                            "Servizio pulizie giornaliero",
+                            "Navetta aeroportuale (a pagamento)",
+                            "Distributore automatico di bevande",
+                            "Servizio navetta (a pagamento)",
+                            "Deposito bagagli",
+                            "Centro business",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Moquette",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere non fumatori",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Cinese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/223783060.jpg?k=17cbbb49c43f2beabee1d8c82f7c5b80d3dc476179b37347d5d83c4abefb255e&o="
+        },
+        {
+            "name": "Clarion Hotel Park Avenue",
+            "score": "7,7",
+            "price": "9",
+            "link": "/hotel/us/clarion-park-avenue.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=5588709_190190436_1_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=44&highlighted_blocks=5588709_190190436_1_1_0&hpos=19&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=5588709_190190436_1_1_0__9415&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.74415398",
+                "longitude": "-73.98330554",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Reception 24 ore su 24",
+                    "Colazione ottima"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa"
+                        ]
+                    },
+                    {
+                        "type": "Servizi ed extra",
+                        "value": [
+                            "Biglietti per attrazioni o spettacoli"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Parcheggio custodito"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Fattura disponibile su richiesta",
+                            "Check-in e check-out privati",
+                            "Servizio concierge",
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Servizio biglietteria",
+                            "Banco escursioni",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Lavaggio a secco"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Struttura interamente non fumatori",
+                            "Sveglia telefonica",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Sveglia/sveglia telefonica",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Fitness"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/169892313.jpg?k=b3a280dd6f17041aa82558fe05661f831ec9cf5a58417c61d52d2519d3219807&o="
+        },
+        {
+            "name": "Radio City Apartments",
+            "score": "8,6",
+            "price": "9",
+            "link": "/hotel/us/radio-city-apartments.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=36763201_174095066_0_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=45&highlighted_blocks=36763201_174095066_0_0_0&hpos=20&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=36763201_174095066_0_0_0__9466&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75989754",
+                "longitude": "-73.98295954",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "WiFi disponibile ovunque",
+                    "Parcheggio privato",
+                    "Connessione WiFi gratuita",
+                    "Parcheggio",
+                    "Disponibilità di camere familiari"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Tostapane",
+                            "Forno a microonde",
+                            "Frigorifero",
+                            "Angolo cottura"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Soluzioni anallergiche",
+                            "Moquette",
+                            "Riscaldamento",
+                            "Ferro da stiro",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Servizi ed extra",
+                        "value": [
+                            "Sveglia telefonica"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Fattura disponibile su richiesta",
+                            "Deposito bagagli",
+                            "Quotidiani",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Allarme antifumo",
+                            "Sicurezza 24 ore su 24",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Varie",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Riscaldamento",
+                            "Ascensore",
+                            "Disponibilità di camere familiari",
+                            "Camere non fumatori"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/94471600.jpg?k=c4e9d6fdefa92cf6c44e74ef5abbe22c036f29f52827fe1f4c334e0ac6402cf9&o="
+        },
+        {
+            "name": "Four Points by Sheraton Manhattan Midtown West",
+            "score": "8,4",
+            "price": "0",
+            "link": "/hotel/us/four-points-by-sheraton-manhattan-midtown-west.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=201682212_249055550_1_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=46&highlighted_blocks=201682212_249055550_1_1_0&hpos=21&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=201682212_249055550_1_1_0__9507&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.75499000",
+                "longitude": "-73.99840000",
+                "important_facilities": [
+                    "palestra buona",
+                    "Camere non fumatori",
+                    "Ristorante",
+                    "Servizio in camera",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "bollitore tè / macchina caffè in tutte le camere",
+                    "Bar",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Pantofole",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Docking station per iPod",
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Canali satellitari",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Bar",
+                            "Ristorante",
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": []
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Servizio concierge",
+                            "Deposito bagagli",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio stireria",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Rilevatore di monossido di carbonio",
+                            "Sala comune/zona TV",
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Sveglia telefonica",
+                            "Parquet o pavimento in legno",
+                            "Riscaldamento",
+                            "Cassaforte per computer portatile",
+                            "Moquette",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere/strutture per ospiti disabili",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Sveglia/sveglia telefonica",
+                            "Aria condizionata",
+                            "Cassaforte",
+                            "Servizio in camera"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Intera unità accessibile ai disabili"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Cinese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/252935263.jpg?k=b6c56347a3f8da43bae23a9a7c95fa04e7584c5a7e3c96e2d8cf5460518f826d&o="
+        },
+        {
+            "name": "Carlton Arms Hotel",
+            "score": "7,4",
+            "price": "0",
+            "link": "/hotel/us/carlton-arms.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=213996902_121322018_0_0_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=47&highlighted_blocks=213996902_121322018_0_0_0&hpos=22&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=213996902_121322018_0_0_0__9530&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.74019213",
+                "longitude": "-73.98264362",
+                "important_facilities": [
+                    "Camere non fumatori",
+                    "Connessione WiFi gratuita",
+                    "Reception 24 ore su 24",
+                    "Riscaldamento",
+                    "Aria condizionata"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Armadio o guardaroba"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Asciugatrice"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Presa elettrica vicino al letto",
+                            "Stand appendiabiti"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Attività",
+                        "value": [
+                            "Bingo",
+                            "Aerobica",
+                            "Tiro con l'arco",
+                            "Spettacolo/musica dal vivo",
+                            "Tour o lezioni sulla cultura locale",
+                            "Happy hour",
+                            "Tour in bicicletta",
+                            "Tour a piedi",
+                            "Serate di cinema",
+                            "Cabaret",
+                            "Giro dei pub",
+                            "Minigolf",
+                            "Equitazione",
+                            "Bowling",
+                            "Escursioni in bicicletta",
+                            "Biblioteca",
+                            "Freccette",
+                            "Ping-pong",
+                            "Biliardo",
+                            "Pesca",
+                            "Campo da golf (nel raggio di 3 km)",
+                            "Campo da tennis"
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "Radio"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Caffetteria sul posto"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente nelle camere."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Parcheggio per disabili",
+                            "Parcheggio in strada"
+                        ]
+                    },
+                    {
+                        "type": "Trasporti",
+                        "value": [
+                            "Biglietti per i mezzi di trasporto"
+                        ]
+                    },
+                    {
+                        "type": "Altri servizi",
+                        "value": [
+                            "Sala comune/zona TV",
+                            "Check-in e check-out privati",
+                            "Servizio concierge",
+                            "Deposito bagagli",
+                            "Fax/fotocopiatrice",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Libri, DVD, musica per bambini"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Allarme antifumo",
+                            "Allarme di sicurezza",
+                            "Sicurezza 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Zanzariera",
+                            "Riscaldamento",
+                            "Ingresso indipendente",
+                            "Moquette",
+                            "Riscaldamento",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Tedesco",
+                            "Inglese",
+                            "Spagnolo",
+                            "Francese",
+                            "Italiano"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/212107282.jpg?k=db41161c9dc0968016d8d7b0687f6ec2ce851fe866cc007412fe1df8a87a05ca&o="
+        },
+        {
+            "name": "Aloft Manhattan Downtown - Financial District",
+            "score": "8,3",
+            "price": "0",
+            "link": "/hotel/us/aloft-manhattan-downtown-financial-district.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=61791709_274565650_0_2_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=48&highlighted_blocks=61791709_274565650_0_2_0&hpos=23&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=61791709_274565650_0_2_0__9541&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.71029400",
+                "longitude": "-74.00673500",
+                "important_facilities": [
+                    "palestra buona",
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "Connessione WiFi gratuita",
+                    "bollitore tè / macchina caffè in tutte le camere",
+                    "Bar",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Arredamento da esterni"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Frigorifero"
+                        ]
+                    },
+                    {
+                        "type": "Servizi ed extra",
+                        "value": [
+                            "Biglietti per attrazioni o spettacoli"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+                        ]
+                    },
+                    {
+                        "type": "Attività",
+                        "value": [
+                            "Spettacolo/musica dal vivo",
+                            "Happy hour",
+                            "Intrattenimento serale",
+                            "Locale notturno/DJ",
+                            "Biliardo",
+                            "Sala giochi"
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Cioccolatini o biscotti",
+                            "Frutta",
+                            "Bottiglia d'acqua",
+                            "Vino/champagne",
+                            "Snack bar",
+                            "Bar",
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Autorimessa"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Servizio concierge",
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Area giochi al coperto",
+                            "Giochi da tavolo/puzzle"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Stirapantaloni",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business",
+                            "Spazi per riunioni/banchetti"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Telecamere a circuito chiuso all'esterno della struttura",
+                            "Telecamere a circuito chiuso nelle zone in comune",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Ciotole per animali domestici",
+                            "Minimarket (in loco)",
+                            "Sala comune/zona TV",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Camera anallergica",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Moquette",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Disponibilità di camere familiari",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo",
+                            "Cinese"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/58396402.jpg?k=f2f9b3140a53a85c12166c375033a0c2b59a7d4ef2364df69fde90ff3b130668&o="
+        },
+        {
+            "name": "Holiday Inn Lower East Side",
+            "score": "8,2",
+            "price": "0",
+            "link": "/hotel/us/holiday-inn-lower-east-side.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=43099912_86780190_2_34_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=49&highlighted_blocks=43099912_86780190_2_34_0&hpos=24&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=43099912_86780190_2_34_0__9558&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do;has_campaign_deals_early21_customer_label=1",
+            "details": {
+                "latitude": "40.71816766",
+                "longitude": "-73.98623217",
+                "important_facilities": [
+                    "Palestra",
+                    "Camere non fumatori",
+                    "Ristorante",
+                    "Servizio in camera",
+                    "Camere/strutture per ospiti disabili",
+                    "WiFi disponibile ovunque",
+                    "bollitore tè / macchina caffè in tutte le camere",
+                    "Bar",
+                    "Colazione"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Servizi igienici aggiuntivi",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Spazi all'aperto",
+                        "value": [
+                            "Arredamento da esterni"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Cioccolatini o biscotti",
+                            "Frutta",
+                            "Bottiglia d'acqua",
+                            "Vino/champagne",
+                            "Menù per diete particolari (su richiesta)",
+                            "Snack bar",
+                            "Possibilità di colazione in camera",
+                            "Bar",
+                            "Ristorante",
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Gratis! Internet WiFi disponibile gratuitamente in tutta la struttura."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Parcheggio per disabili",
+                            "Autorimessa",
+                            "Parcheggio in strada",
+                            "Parcheggio custodito"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Servizio concierge",
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Canali TV per bambini"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Servizio stireria",
+                            "Lavaggio a secco"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business",
+                            "Spazi per riunioni/banchetti"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Allarme antifumo",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Rilevatore di monossido di carbonio",
+                            "Minimarket (in loco)",
+                            "Sala comune/zona TV",
+                            "Area fumatori",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Moquette",
+                            "Disponibilità di camere insonorizzate",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Sveglia/sveglia telefonica",
+                            "Aria condizionata",
+                            "Servizio in camera"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Piani superiori accessibili tramite ascensore"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Fitness",
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/233308312.jpg?k=9c6697f3e1b7a25476499069fb4a789f382f978e007a4750ee4b37129a276853&o="
+        },
+        {
+            "name": "Hampton Inn Seaport Financial District",
+            "score": "8,5",
+            "price": "0",
+            "link": "/hotel/us/hampton-inn-seaport-financial-district.it.html?label=gen173nr-1DCAQoggJCFXNlYXJjaF9uZXcgeW9yaywgbm9uZUgUWARoUIgBAZgBFLgBGcgBDNgBA-gBAfgBA4gCAagCA7gC_fXAgAbAAgHSAiQ2YjU4ZDQwOC02M2IyLTRiMzctYTkxMS1iMDRmNjIzMjRlMDPYAgTgAgE&sid=01c5c432f06318bd1e18f6c546378fd2&all_sr_blocks=5693605_264234373_2_1_0&checkin=2021-01-26&checkout=2021-01-27&dest_id=20088325&dest_type=city&group_adults=1&group_children=0&hapos=50&highlighted_blocks=5693605_264234373_2_1_0&hpos=25&no_rooms=1&req_adults=1&req_children=0&room1=A&sr_order=price&sr_pri_blocks=5693605_264234373_2_1_0__9567&srepoch=1611676413&srpvid=50606fbe3e99011a&ucfs=1&from=searchresults;hptv=do",
+            "details": {
+                "latitude": "40.70894976",
+                "longitude": "-74.00216918",
+                "important_facilities": [
+                    "Palestra",
+                    "Camere non fumatori",
+                    "Camere/strutture per ospiti disabili",
+                    "Parcheggio privato",
+                    "Parcheggio",
+                    "Reception 24 ore su 24",
+                    "bollitore tè / macchina caffè in tutte le camere",
+                    "Colazione ottima"
+                ],
+                "neighborhood_structures": [],
+                "services_offered": [
+                    {
+                        "type": "Bagno",
+                        "value": [
+                            "Carta igienica",
+                            "Asciugamani",
+                            "Vasca o doccia",
+                            "Bagno privato",
+                            "WC",
+                            "Prodotti da bagno in omaggio",
+                            "Asciugacapelli",
+                            "Doccia"
+                        ]
+                    },
+                    {
+                        "type": "Camera da letto",
+                        "value": [
+                            "Biancheria per la casa",
+                            "Armadio o guardaroba",
+                            "Sveglia"
+                        ]
+                    },
+                    {
+                        "type": "Cucina",
+                        "value": [
+                            "Asciugatrice"
+                        ]
+                    },
+                    {
+                        "type": "Servizi in camera",
+                        "value": [
+                            "Presa elettrica vicino al letto",
+                            "Stand appendiabiti"
+                        ]
+                    },
+                    {
+                        "type": "Animali",
+                        "value": [
+                            "Animali non ammessi."
+                        ]
+                    },
+                    {
+                        "type": "Area soggiorno",
+                        "value": [
+                            "Scrivania"
+                        ]
+                    },
+                    {
+                        "type": "Media e tecnologia",
+                        "value": [
+                            "TV a schermo piatto",
+                            "Canali via cavo",
+                            "Radio",
+                            "Telefono",
+                            "TV"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di ristorazione",
+                        "value": [
+                            "Bottiglia d'acqua",
+                            "Buffet per bambini",
+                            "Bollitore tè/macchina caffè"
+                        ]
+                    },
+                    {
+                        "type": "Internet",
+                        "value": [
+                            "Connessione internet non disponibile."
+                        ]
+                    },
+                    {
+                        "type": "Parcheggio",
+                        "value": [
+                            "Parcheggio per disabili",
+                            "Autorimessa",
+                            "Parcheggio custodito"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di accoglienza",
+                        "value": [
+                            "Sportello bancomat",
+                            "Deposito bagagli",
+                            "Check-in e check-out express",
+                            "Reception 24 ore su 24"
+                        ]
+                    },
+                    {
+                        "type": "Intrattenimento e servizi per le famiglie",
+                        "value": [
+                            "Canali TV per bambini"
+                        ]
+                    },
+                    {
+                        "type": "Servizi di pulizia",
+                        "value": [
+                            "Servizio pulizie giornaliero",
+                            "Lavaggio a secco",
+                            "Servizio lavanderia"
+                        ]
+                    },
+                    {
+                        "type": "Servizi business",
+                        "value": [
+                            "Fax/fotocopiatrice",
+                            "Centro business"
+                        ]
+                    },
+                    {
+                        "type": "Protezione e sicurezza",
+                        "value": [
+                            "Estintori",
+                            "Allarme antifumo",
+                            "Sicurezza 24 ore su 24",
+                            "Cassaforte"
+                        ]
+                    },
+                    {
+                        "type": "Servizi generali",
+                        "value": [
+                            "Sala comune/zona TV",
+                            "Distributore automatico di snack",
+                            "Distributore automatico di bevande",
+                            "Aria condizionata",
+                            "Struttura interamente non fumatori",
+                            "Sveglia telefonica",
+                            "Riscaldamento",
+                            "Insonorizzazione",
+                            "Moquette",
+                            "Disponibilità di camere insonorizzate",
+                            "Ascensore",
+                            "Riscaldamento",
+                            "Camere/strutture per ospiti disabili",
+                            "Ferro e asse da stiro",
+                            "Camere non fumatori",
+                            "Ferro da stiro",
+                            "Quotidiani",
+                            "Sveglia/sveglia telefonica",
+                            "Aria condizionata"
+                        ]
+                    },
+                    {
+                        "type": "Accessibilità",
+                        "value": [
+                            "Intera unità accessibile ai disabili",
+                            "Piani superiori accessibili tramite ascensore"
+                        ]
+                    },
+                    {
+                        "type": "Servizi benessere",
+                        "value": [
+                            "Fitness",
+                            "Palestra"
+                        ]
+                    },
+                    {
+                        "type": "Lingue parlate",
+                        "value": [
+                            "Inglese",
+                            "Spagnolo"
+                        ]
+                    }
+                ]
+            },
+            "thumbnail_image": "https://cf.bstatic.com/xdata/images/hotel/square200/64724922.jpg?k=ae7d30445633eb06812bc1ac4cae77936a635eb3533c4d7eecc482716b15eb0a&o="
+        }
+    ]
+]
