@@ -53,6 +53,6 @@ def hello_world(request):
                 # sleep(5)
 
         client = storage.Client()
-        bucket = client.get_bucket('scraping')
+        bucket = client.get_bucket('cloud-function-output-scrapper')
         blob = bucket.blob('booking.csv')
         blob.upload_from_filename('data.csv')
