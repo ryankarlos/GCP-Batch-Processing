@@ -56,4 +56,6 @@ def hello_world(request):
         bucket = client.get_bucket('cloud-function-output-scrapper')
         blob = bucket.blob('booking.csv')
         blob.upload_from_filename('/tmp/data.csv')
-        print("Upload to bucket completed")
+        # seems to throw error at end if return statement with some str not there.
+        return "Upload to bucket completed"
+
