@@ -55,4 +55,4 @@ def hello_world(request):
         client = storage.Client()
         bucket = client.get_bucket('cloud-function-output-scrapper')
         blob = bucket.blob('booking.csv')
-        blob.upload_from_filename('data.csv')
+        blob.upload_from_filename('/tmp/data.csv')
