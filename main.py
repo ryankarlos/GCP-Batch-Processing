@@ -2,10 +2,12 @@
 import csv
 from scraper import scrape, create_url
 
-people = 1
-city = 'London'
 
-with open("urls.txt",'r') as urllist, open('data.csv','w') as outfile:
+offset=100
+people = 1
+city = ['London', 'bristol', 'cornwall', 'brighton', 'portsmouth', 'bournemouth', 'manchester', 'yorkshire', 'gloucestershire']
+
+with open('data.csv','w') as outfile:
     fieldnames = [
         "name",
         "location",
@@ -17,12 +19,18 @@ with open("urls.txt",'r') as urllist, open('data.csv','w') as outfile:
         "rating_title",
         "number_of_ratings",
     ]
-    urllist = create_url(people, city)
+    urllist = []
+    for c in city:
+        urllist.extend(create_url(people, c, offset))
+
     writer = csv.DictWriter(outfile, fieldnames=fieldnames,quoting=csv.QUOTE_ALL)
     writer.writeheader()
     for url in urllist:
         data = scrape(url)
         if data:
-            for h in data['hotels']:
-                writer.writerow(h)
+            try:
+                for h in data['hotels']:
+                    writer.writerow(h)
+            except:
+                print("Skipping to next as offset exceeds max search")
             # sleep(5)
