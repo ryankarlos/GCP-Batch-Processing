@@ -6,8 +6,8 @@ def hello_world(request):
     import datetime
     from gcloud import storage
 
-    max_search = os.environ("MAX_SEARCH")
-    people = os.environ("PEOPLE")
+    max_search = int(os.environ["MAX_SEARCH"])
+    people = int(os.environ["PEOPLE"])
     city = [
         "London",
         "bristol",
@@ -19,8 +19,8 @@ def hello_world(request):
         "yorkshire",
         "gloucestershire",
     ]
-    checkin_date = datetime.datetime.now() + datetime.timedelta(os.environ("CHECKIN"))
-    checkout_date = checkin_date + datetime.timedelta(os.environ("CHECKOUT"))
+    checkin_date = datetime.datetime.now() + datetime.timedelta(int(os.environ["CHECKIN"]))
+    checkout_date = checkin_date + datetime.timedelta(int(os.environ["CHECKOUT"]))
 
     with open("data.csv", "w") as outfile:
         fieldnames = [
