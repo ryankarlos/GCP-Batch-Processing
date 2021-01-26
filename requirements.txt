@@ -6,3 +6,4 @@ argcomplete==1.12.2
 booking-scraper
 beautifulsoup4
 selectorlib
+gcloud
