@@ -19,7 +19,7 @@ def create_url(people, city, offset, datein=today, dateout=tomorrow):
         url = "https://www.booking.com/searchresults.en-gb.html?checkin_month={in_month}" \
             "&checkin_monthday={in_day}&checkin_year={in_year}&checkout_month={out_month}" \
             "&checkout_monthday={out_day}&checkout_year={out_year}&group_adults={people}" \
-            "&group_children=0&order=price&ss={city}&offset={offset}"\
+            "&group_children=0&order=review_score_and_price&ss={city}&offset={offset}"\
             .format(in_month=str(datein.month),
                     in_day=str(datein.day),
                     in_year=str(datein.year),
