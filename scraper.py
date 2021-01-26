@@ -16,7 +16,7 @@ def create_url(people, city, datein=today, dateout=tomorrow, offset=200):
 
     for i in range(1, offset, 25):
 
-        url = "https://www.booking.com/searchresults.it.html?checkin_month={in_month}" \
+        url = "https://www.booking.com/searchresults.en-gb.html?checkin_month={in_month}" \
             "&checkin_monthday={in_day}&checkin_year={in_year}&checkout_month={out_month}" \
             "&checkout_monthday={out_day}&checkout_year={out_year}&group_adults={people}" \
             "&group_children=0&order=price&ss={city}&offset={offset}"\
@@ -31,7 +31,6 @@ def create_url(people, city, datein=today, dateout=tomorrow, offset=200):
                     offset=i)
 
         url_list.append(url)
-
     return url_list
 
 

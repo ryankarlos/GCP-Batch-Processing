@@ -30,6 +30,3 @@ hotels:
         number_of_ratings:
             css: div.bui-review-score__text
             type: Text
-        url:
-            css: a.hotel_name_link
-            type: Link

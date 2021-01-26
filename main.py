@@ -16,7 +16,6 @@ with open("urls.txt",'r') as urllist, open('data.csv','w') as outfile:
         "rating",
         "rating_title",
         "number_of_ratings",
-        "url"
     ]
     urllist = create_url(people, city)
     writer = csv.DictWriter(outfile, fieldnames=fieldnames,quoting=csv.QUOTE_ALL)
