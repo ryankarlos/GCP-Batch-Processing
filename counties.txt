@@ -11,16 +11,13 @@ Cumbria
 Derbyshire
 Devon
 Dorset
-Yorkshire
 Essex
 Gloucestershire
 Greater London
 Greater Manchester
 Hampshire
-Herefordshire
 Hertfordshire
 Isle of Wight
-Isles of Scilly
 Kent
 Lancashire
 Leicestershire
@@ -28,7 +25,6 @@ Lincolnshire
 Merseyside
 Norfolk
 Somerset
-Yorkshire
 Northamptonshire
 Nottinghamshire
 Oxfordshire
@@ -43,13 +39,12 @@ Warwickshire
 West Midlands
 Wiltshire
 Worcestershire
-Anglesey
+Yorkshire
 Bridgend
 Cardiff
 Caerphilly
 Carmarthenshire
 Denbighshire
-Flintshire
 Gwynedd
 Newport
 Pembrokeshire
@@ -70,5 +65,4 @@ Renfrewshire
 Shetland Islands
 Lanarkshire
 Stirling
-Dunbartonshire
 Lothian
