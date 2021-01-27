@@ -12,46 +12,25 @@ def hello_world(request):
 
     import csv
     from scraper import scrape, create_url
-    import os
-    import datetime
+    from params import (
+        counties,
+        people,
+        checkin_date,
+        checkout_date,
+        max_search,
+        fieldnames,
+        filename,
+        bucketname,
+        tmpfilepath,
+    )
     from gcloud import storage
 
-    max_search = int(os.environ["MAX_SEARCH"])
-    people = int(os.environ["PEOPLE"])
-    city = [
-        "London",
-        "bristol",
-        "cornwall",
-        "brighton",
-        "portsmouth",
-        "bournemouth",
-        "manchester",
-        "yorkshire",
-        "gloucestershire",
-    ]
-    checkin_date = datetime.datetime.now() + datetime.timedelta(
-        int(os.environ["CHECKIN"])
-    )
-    checkout_date = checkin_date + datetime.timedelta(int(os.environ["CHECKOUT"]))
-    # needs to be stored in tmp dir in gcp as dont have write permissions otherwise
-    with open("/tmp/data.csv", "w") as outfile:
-        fieldnames = [
-            "name",
-            "location",
-            "price",
-            "price_for",
-            "room_type",
-            "beds",
-            "rating",
-            "rating_title",
-            "number_of_ratings",
-        ]
-        urllist = []
-        for c in city:
-            urllist.extend(
-                create_url(people, c, checkin_date, checkout_date, max_search)
-            )
+    urllist = []
+    for c in counties:
+        urllist.extend(create_url(people, c, checkin_date, checkout_date, max_search))
 
+    # needs to be stored in tmp dir in gcp as dont have write permissions otherwise
+    with open(tmpfilepath, "w") as outfile:
         writer = csv.DictWriter(outfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
         writer.writeheader()
         for url in urllist:
@@ -65,9 +44,9 @@ def hello_world(request):
                 # sleep(5)
         print("Saved temp copy of csv")
         client = storage.Client()
-        bucket = client.get_bucket("cloud-function-output-scrapper")
-        blob = bucket.blob("booking.csv")
-        blob.upload_from_filename("/tmp/data.csv")
+        bucket = client.get_bucket(bucketname)
+        blob = bucket.blob(filename)
+        blob.upload_from_filename(tmpfilepath)
         # seems to throw error at end if return statement with some str not there.
         return "Upload to bucket completed"
 
@@ -88,6 +67,10 @@ def bucket_csv_to_bquery(event, context):
     """
 
     from google.cloud import bigquery
+    from params import (
+        filename,
+        bucketname,
+    )
 
     # Construct a BigQuery client object.
     client = bigquery.Client()
@@ -109,7 +92,7 @@ def bucket_csv_to_bquery(event, context):
         # The source format defaults to CSV, so the line below is optional.
         source_format=bigquery.SourceFormat.CSV,
     )
-    uri = "gs://cloud-function-output-scrapper/booking.csv"
+    uri = f"gs://{bucketname}/{filename}"
 
     load_job = client.load_table_from_uri(uri, table_id, job_config=job_config)
 

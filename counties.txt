@@ -1,0 +1,47 @@
+Bath
+Bedfordshire
+Berkshire
+Bristol
+Buckinghamshire
+Cambridgeshire
+Cheshire
+Cornwall
+Durham
+Cumbria
+Derbyshire
+Devon
+Dorset
+Yorkshire
+Essex
+Gloucestershire
+Greater London
+Greater Manchester
+Hampshire
+Herefordshire
+Hertfordshire
+Isle of Wight
+Isles of Scilly
+Kent
+Lancashire
+Leicestershire
+Lincolnshire
+Merseyside
+Norfolk
+Somerset
+Yorkshire
+Northamptonshire
+Northumberland
+Nottinghamshire
+Oxfordshire
+Rutland
+Shropshire
+Somerset
+Gloucestershire
+Staffordshire
+Suffolk
+Surrey
+Tyne
+Warwickshire
+West Midlands
+Wiltshire
+Worcestershire
