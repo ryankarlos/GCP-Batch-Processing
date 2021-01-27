@@ -72,6 +72,7 @@ def bucket_csv_to_bquery(event, context):
     from params import (
         filename,
         bucketname,
+        schema
     )
 
     # Construct a BigQuery client object.
@@ -79,17 +80,7 @@ def bucket_csv_to_bquery(event, context):
     table_id = "lbghack2021team7.stage.booking_hotels"
 
     job_config = bigquery.LoadJobConfig(
-        schema=[
-            bigquery.SchemaField("Name", "STRING"),
-            bigquery.SchemaField("Location", "STRING"),
-            bigquery.SchemaField("Price", "INTEGER"),
-            bigquery.SchemaField("Duration", "INTEGER"),
-            bigquery.SchemaField("RoomType", "STRING"),
-            bigquery.SchemaField("Beds", "INTEGER"),
-            bigquery.SchemaField("Rating", "FLOAT"),
-            bigquery.SchemaField("RatingTitle", "STRING"),
-            bigquery.SchemaField("NumberRatings", "INTEGER"),
-        ],
+        schema=schema,
         skip_leading_rows=1,
         # The source format defaults to CSV, so the line below is optional.
         source_format=bigquery.SourceFormat.CSV,
