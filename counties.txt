@@ -30,10 +30,8 @@ Norfolk
 Somerset
 Yorkshire
 Northamptonshire
-Northumberland
 Nottinghamshire
 Oxfordshire
-Rutland
 Shropshire
 Somerset
 Gloucestershire
@@ -45,3 +43,32 @@ Warwickshire
 West Midlands
 Wiltshire
 Worcestershire
+Anglesey
+Bridgend
+Cardiff
+Caerphilly
+Carmarthenshire
+Denbighshire
+Flintshire
+Gwynedd
+Newport
+Pembrokeshire
+Swansea
+Glamorgan
+Wrexham
+Aberdeen
+Angus
+Edinburgh
+Falkirk
+Fife
+Glasgow
+Highland
+Inverclyde
+Midlothian
+Ayrshire
+Renfrewshire
+Shetland Islands
+Lanarkshire
+Stirling
+Dunbartonshire
+Lothian

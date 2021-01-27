@@ -1,4 +1,4 @@
-def scrape_to_bucket(request):
+def scrape_to_bucket():
     """
     Cloud Function for running bookings scraper and uploading to gcp bucket
     Parameters
@@ -37,7 +37,8 @@ def scrape_to_bucket(request):
             if data:
                 try:
                     for h in data["hotels"]:
-                        writer.writerow(h)
+                        if len(h['name'].split()) <= 6:
+                            writer.writerow(h)
                 except:
                     print("Skipping to next as offset exceeds max search")
                 # sleep(5)
@@ -80,3 +81,6 @@ def bucket_csv_to_bquery(event, context):
     destination_table = client.get_table(table_id)
 
     return "Loaded {} rows.".format(destination_table.num_rows)
+
+
+scrape_to_bucket()

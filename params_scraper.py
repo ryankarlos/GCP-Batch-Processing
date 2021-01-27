@@ -23,3 +23,5 @@ fieldnames = [
 ]
 
 tmpfilepath = "/tmp/data.csv"
+bucketname = os.environ["BUCKET"]
+filename = os.environ["FILENAME"]
