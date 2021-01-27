@@ -1,4 +1,14 @@
 def hello_world(request):
+    """
+    Cloud Function for running bookings scraper and uploading to gcp bucket
+    Parameters
+    ----------
+    request
+
+    Returns
+    -------
+
+    """
 
     import csv
     from scraper import scrape, create_url
@@ -19,7 +29,9 @@ def hello_world(request):
         "yorkshire",
         "gloucestershire",
     ]
-    checkin_date = datetime.datetime.now() + datetime.timedelta(int(os.environ["CHECKIN"]))
+    checkin_date = datetime.datetime.now() + datetime.timedelta(
+        int(os.environ["CHECKIN"])
+    )
     checkout_date = checkin_date + datetime.timedelta(int(os.environ["CHECKOUT"]))
     # needs to be stored in tmp dir in gcp as dont have write permissions otherwise
     with open("/tmp/data.csv", "w") as outfile:
@@ -53,9 +65,8 @@ def hello_world(request):
                 # sleep(5)
         print("Saved temp copy of csv")
         client = storage.Client()
-        bucket = client.get_bucket('cloud-function-output-scrapper')
-        blob = bucket.blob('booking.csv')
-        blob.upload_from_filename('/tmp/data.csv')
+        bucket = client.get_bucket("cloud-function-output-scrapper")
+        blob = bucket.blob("booking.csv")
+        blob.upload_from_filename("/tmp/data.csv")
         # seems to throw error at end if return statement with some str not there.
         return "Upload to bucket completed"
-
