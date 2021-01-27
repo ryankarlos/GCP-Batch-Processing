@@ -9,7 +9,7 @@ def scrape_to_bucket(request):
 
     import csv
     from scraper import scrape, create_url
-    from params import (
+    from params_scraper import (
         counties,
         people,
         checkin_date,
@@ -61,12 +61,13 @@ def bucket_csv_to_bquery(event, context):
     context
     """
     from google.cloud import bigquery
-    from params import filename, bucketname, schema, table_id
+    from params_bq import filename, bucketname, schema, table, project_id, table_schema
 
+    table_id = f"{project_id}.{schema}.{table}"
     # Construct a BigQuery client object.
     client = bigquery.Client()
     job_config = bigquery.LoadJobConfig(
-        schema=schema,
+        schema=table_schema,
         skip_leading_rows=1,
         # The source format defaults to CSV, so the line below is optional.
         source_format=bigquery.SourceFormat.CSV,
