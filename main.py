@@ -1,4 +1,4 @@
-def hello_world(request):
+def scrape_to_bucket(request):
     """
     Cloud Function for running bookings scraper and uploading to gcp bucket
     Parameters
