@@ -26,8 +26,10 @@ def hello_world(request):
     from gcloud import storage
 
     urllist = []
-    for c in counties:
-        urllist.extend(create_url(people, c, checkin_date, checkout_date, max_search))
+    for county in counties:
+        urllist.extend(
+            create_url(people, county, checkin_date, checkout_date, max_search)
+        )
 
     # needs to be stored in tmp dir in gcp as dont have write permissions otherwise
     with open(tmpfilepath, "w") as outfile:
