@@ -81,3 +81,80 @@ def bucket_csv_to_bquery(event, context):
     destination_table = client.get_table(table_id)
 
     return "Loaded {} rows.".format(destination_table.num_rows)
+
+
+def senti(request):
+    """
+    Cloud function for calling GOogle NLP API and computing sentiment.
+    Then persists to BigQuery DB.
+    Parameters
+    ----------
+    request
+
+    Returns
+    -------
+
+    """
+    from google.cloud import bigquery
+    from google.cloud import language_v1
+    from google.cloud.bigquery import SchemaField
+    import csv
+
+    client = language_v1.LanguageServiceClient()
+    bigquery_client = bigquery.Client()
+
+    # Fetch users comments from BigQuery public dataset
+    # -------------------------------------------------
+
+    QUERY = 'SELECT * FROM `lbghack2021team7.stage.stage_twitter_tweets`'
+    query_job = bigquery_client.query(QUERY)
+
+    # Run each comment through the natural language API to get the sentiment of the comment
+    # -------------------------------------------------------------------------------------
+
+    # Available values: NONE, UTF8, UTF16, UTF32
+    encoding_type = language_v1.EncodingType.UTF8
+    # Available types: PLAIN_TEXT, HTML
+    type_ = language_v1.Document.Type.PLAIN_TEXT
+    language = "en"
+    fieldnames = ["comment_id", "comment", "sentiment_score", "sentiment_maginitude"]
+    rows_to_insert = []
+    records_processed = 0
+
+    # check if table exists and if not create one
+    table_id = "lbghack2021team7.stage.stage_twitter_tweets"
+
+    table_schema = (
+        [
+            bigquery.SchemaField("CommentID", "INTEGER"),
+            bigquery.SchemaField("Tweet", "STRING"),
+            bigquery.SchemaField("SentimentScore", "FLOAT"),
+            bigquery.SchemaField("SentimentMagnitude", "FLOAT"),
+        ],
+    )
+
+    try:
+        bigquery_client.get_table(table_id)  # Make an API request.
+        print("Table {} already exists.".format(table_id))
+    except NotFound:
+        print("Table {} does not exist so creating one.".format(table_id))
+        table = bigquery.Table(table_id, schema=table_schema)
+        table = client.create_table(table)  # Make an API request.
+        print("Created table {}.{}.{}".format(table.project, table.dataset_id, table.table_id))
+
+    for row in query_job:
+        comment_id, comment = row[0], row[1]
+        records_processed += 1
+        print('Processing record %d:' % (records_processed))
+        try:
+            document = {"content": comment, "type_": type_, "language": language}
+            response = client.analyze_sentiment(request={'document': document, 'encoding_type': encoding_type})
+            row_ = {"Tweet": comment, "Sentiment score": response.document_sentiment.score,
+                    "Sentiment magnitude": response.document_sentiment.magnitude}
+            print(row_)
+            rows_to_insert.append(row_)
+        except Exception as e:
+            print(e)
+
+    errors = bigquery_client.insert_rows_json(table_id, rows_to_insert, row_ids=[None] * len(rows_to_insert))
+    return "Done"

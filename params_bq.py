@@ -11,12 +11,12 @@ table_schema = (
     [
         bigquery.SchemaField("Name", "STRING"),
         bigquery.SchemaField("Location", "STRING"),
-        bigquery.SchemaField("Price", "INTEGER"),
+        bigquery.SchemaField("PriceDollars", "INTEGER"),
         bigquery.SchemaField("Duration", "INTEGER"),
         bigquery.SchemaField("RoomType", "STRING"),
         bigquery.SchemaField("Beds", "INTEGER"),
         bigquery.SchemaField("Rating", "FLOAT"),
         bigquery.SchemaField("RatingTitle", "STRING"),
-        bigquery.SchemaField("NumberRatings", "INTEGER"),
+        bigquery.SchemaField("RatingNumber", "INTEGER"),
     ],
 )
