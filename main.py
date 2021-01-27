@@ -87,7 +87,7 @@ def bucket_csv_to_bquery(event, context):
 
     """
 
-    from gcloud import bigquery
+    from google.cloud import bigquery
 
     # Construct a BigQuery client object.
     client = bigquery.Client()
@@ -95,15 +95,15 @@ def bucket_csv_to_bquery(event, context):
 
     job_config = bigquery.LoadJobConfig(
         schema=[
-            bigquery.SchemaField("name", "STRING"),
-            bigquery.SchemaField("location", "STRING"),
-            bigquery.SchemaField("price", "INTEGER"),
-            bigquery.SchemaField("price_for", "STRING"),
-            bigquery.SchemaField("room_type", "INTEGER"),
-            bigquery.SchemaField("beds", "STRING"),
-            bigquery.SchemaField("rating", "FLOAT"),
-            bigquery.SchemaField("rating_title", "STRING"),
-            bigquery.SchemaField("number_of_ratings", "STRING"),
+            bigquery.SchemaField("Name", "STRING"),
+            bigquery.SchemaField("Location", "STRING"),
+            bigquery.SchemaField("Price", "INTEGER"),
+            bigquery.SchemaField("Duration", "INTEGER"),
+            bigquery.SchemaField("RoomType", "STRING"),
+            bigquery.SchemaField("Beds", "INTEGER"),
+            bigquery.SchemaField("Rating", "FLOAT"),
+            bigquery.SchemaField("RatingTitle", "STRING"),
+            bigquery.SchemaField("NumberRatings", "INTEGER"),
         ],
         skip_leading_rows=1,
         # The source format defaults to CSV, so the line below is optional.

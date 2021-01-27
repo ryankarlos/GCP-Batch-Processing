@@ -7,3 +7,4 @@ booking-scraper
 beautifulsoup4
 selectorlib
 gcloud
+google-cloud-bigquery
