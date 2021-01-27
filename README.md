@@ -1,7 +1,4 @@
-# GCP Hackathon 
-
-My contribution towareds our hackathon team's goal of building a webapp to display best places people would like to visit as holiday using data from 
-various sources.
+# GCP Batch Processing
 
 * Building a pipeline for batch processing scrapped web data into cloud storage and big query
 
@@ -9,18 +6,15 @@ Scraping Booking.com hotel searches  by building on some existing work ad implem
 https://github.com/ZoranPandovski/BookingScraper
 https://www.scrapehero.com/scrape-property-data-from-booking-com-using-google-chrome/
 
-My first time using cloud functions in google so few steps that i spent a lot of time figuring out before I could get it working.
-Used source repositories to sync by repo from github as i was developing locally. 
+a) bookingsscrapper generates HTTP end point and gets triggered to run the scraper and store it as csv in tmp dir in the cloud vm and then 
+uploads the data into google cloud storage bucket.
+b) dataprep dataflow job which cleans the raw data landing from a) in the cloud bucket and uploads to another bucket. This can be setup as schedule
+or another cloud function to trigger when listening to bucket event.
+c) load_bookings_from_bucket which has Bucket trigger and uploads data into bigquery when new data lands in cloud storage bucket 
 
+`main.py` contains all google cloud function scripts 
 
-`main.py` contains two google cloud functions: 
-
-- bookingsscrapper which has HTTP trigger and calls the scraper function which stores it as csv in tmp dir in the cloud vm and then 
-uploads the data into google cloud storage bucket. 
-- load_bookings_from_bucket which has Bucket trigger and uploads data into bigquery when new data lands in cloud storage bucket from
-bookingscrapper.
-
-The following environment variable were set by default which correspond to search parameters which can be changed before triggering.
+Note that cloud functions have a max timeout limit of 9 minutes althout default setting is 60 secs, and i had to increase this to avoid timing out, especially when increasing the number of pages I was making calls from. Any changes to source code - requires cloud function to be deployed before triggering, for the changes to take effect. The following environment variable were set by default which  correspond to search parameters which can be changed before triggering.
 
 * Calling CLoud Natural Language API to generate sentiment for text
 
