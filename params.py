@@ -27,14 +27,17 @@ fieldnames = [
 bucketname = os.environ["BUCKET"]
 filename = os.environ("FILENAME")
 tmpfilepath = "/tmp/data.csv"
-schema = [
-             bigquery.SchemaField("Name", "STRING"),
-             bigquery.SchemaField("Location", "STRING"),
-             bigquery.SchemaField("Price", "INTEGER"),
-             bigquery.SchemaField("Duration", "INTEGER"),
-             bigquery.SchemaField("RoomType", "STRING"),
-             bigquery.SchemaField("Beds", "INTEGER"),
-             bigquery.SchemaField("Rating", "FLOAT"),
-             bigquery.SchemaField("RatingTitle", "STRING"),
-             bigquery.SchemaField("NumberRatings", "INTEGER"),
-         ],
+table_id = "lbghack2021team7.stage.booking_hotels"
+schema = (
+    [
+        bigquery.SchemaField("Name", "STRING"),
+        bigquery.SchemaField("Location", "STRING"),
+        bigquery.SchemaField("Price", "INTEGER"),
+        bigquery.SchemaField("Duration", "INTEGER"),
+        bigquery.SchemaField("RoomType", "STRING"),
+        bigquery.SchemaField("Beds", "INTEGER"),
+        bigquery.SchemaField("Rating", "FLOAT"),
+        bigquery.SchemaField("RatingTitle", "STRING"),
+        bigquery.SchemaField("NumberRatings", "INTEGER"),
+    ],
+)
