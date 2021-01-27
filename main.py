@@ -1,4 +1,4 @@
-def scrape_to_bucket():
+def scrape_to_bucket(request):
     """
     Cloud Function for running bookings scraper and uploading to gcp bucket
     Parameters
@@ -81,6 +81,3 @@ def bucket_csv_to_bquery(event, context):
     destination_table = client.get_table(table_id)
 
     return "Loaded {} rows.".format(destination_table.num_rows)
-
-
-scrape_to_bucket()
