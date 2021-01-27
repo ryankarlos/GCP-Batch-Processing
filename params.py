@@ -25,7 +25,7 @@ fieldnames = [
 ]
 
 bucketname = os.environ["BUCKET"]
-filename = os.environ("FILENAME")
+filename = os.environ["FILENAME"]
 tmpfilepath = "/tmp/data.csv"
 table_id = "lbghack2021team7.stage.booking_hotels"
 schema = (
