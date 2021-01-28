@@ -29,6 +29,13 @@ c) load_bookings_from_bucket which has Bucket trigger and uploads data into bigq
 <img width="835" alt="Screenshot 2021-01-27 at 23 10 50" src="https://user-images.githubusercontent.com/16509490/106072293-d1570480-60ff-11eb-93f4-6d84b215d055.png">
 
 
+Can then filter data in bigquery or do further analysis in google cloud studio or merge with other source data e.g. restaurant visits from tripadvisor to give Quick query below shows cheapest hotels under under $500 for an adult on an 8 day stay from end Jan to fist week of Feb 2021.
+
+
+<img width="840" alt="Screenshot 2021-01-28 at 00 15 33" src="https://user-images.githubusercontent.com/16509490/106072247-bedccb00-60ff-11eb-9035-a0a3fb2a68b4.png">
+
+
+
 ### Cloud Function setup
 
 `main.py` contains all google cloud function scripts 
@@ -47,11 +54,6 @@ the entry point must be set the same as cloud function defined in the script.
 
 
 <img width="829" alt="Screenshot 2021-01-27 at 23 26 41" src="https://user-images.githubusercontent.com/16509490/106072250-bf756180-60ff-11eb-9f5f-6d85948d9cb5.png">
-
-Filtering data in bigquery to give cheapest hotels under under $500 for an adult on an 8 day stay from end Jan to fist week of Feb 2021.
-
-
-<img width="840" alt="Screenshot 2021-01-28 at 00 15 33" src="https://user-images.githubusercontent.com/16509490/106072247-bedccb00-60ff-11eb-9035-a0a3fb2a68b4.png">
 
 
 ## Calling CLoud Natural Language API to generate sentiment for text
