@@ -14,13 +14,11 @@ uploads the data into google cloud storage bucket.
 <img width="825" alt="Screenshot 2021-01-27 at 23 24 49" src="https://user-images.githubusercontent.com/16509490/106072239-bab0ad80-60ff-11eb-8430-ea242bc7362a.png">
 
 
-b) dataprep dataflow job which cleans the raw data landing from a) in the cloud bucket and uploads to another bucket. This can be setup as schedule
-or another cloud function to trigger when listening to bucket event.
-
+b) I initially hadn't checked the output of the scraper closely enough and only later realised that there was some further cleaning required to get the data i need in the right format. I did not want to go back and write more scripts so decided to use dataprep for the ETL, which has a nice flexible easy to use interactive interface for producing a cleaning recipe as part of a dataflow job.  This was setup to clean the raw data landing from a) in the cloud bucket and uploading to another bucket. This can be setup as schedule or another cloud function to trigger when listening to bucket event. 
 
 <p float="left">
- <img width="414" alt="Screenshot 2021-01-28 at 00 02 54" src="https://user-images.githubusercontent.com/16509490/106072297-d451f500-60ff-11eb-91b7-f8eb11252cb7.png">
-<img width="436" alt="Screenshot 2021-01-28 at 00 03 52" src="https://user-images.githubusercontent.com/16509490/106072256-c0a68e80-60ff-11eb-839d-601366b59e84.png">
+ <img width="814" height="400" alt="Screenshot 2021-01-28 at 00 02 54" src="https://user-images.githubusercontent.com/16509490/106072297-d451f500-60ff-11eb-91b7-f8eb11252cb7.png">
+<img width="836" height="400" alt="Screenshot 2021-01-28 at 00 03 52" src="https://user-images.githubusercontent.com/16509490/106072256-c0a68e80-60ff-11eb-839d-601366b59e84.png">
 </p>
 
 c) load_bookings_from_bucket which has Bucket trigger and uploads data into bigquery when new data lands in cloud storage bucket 
