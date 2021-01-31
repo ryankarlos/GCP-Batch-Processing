@@ -1,5 +1,8 @@
 # GCP Batch Processing
 
+
+<img width="914" alt="Screenshot 2021-01-31 at 02 56 37" src="https://user-images.githubusercontent.com/16509490/106373317-40d32b00-6370-11eb-99e6-8dfd2e7b49fd.png">
+
 ## Building a pipeline for batch processing scrapped web data into cloud storage and big query
 
 Scraping Booking.com hotel searches  by building on some existing work ad implementing a scraper in `scraper.py`: 
